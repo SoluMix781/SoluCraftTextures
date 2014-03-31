@@ -1,0 +1,57 @@
+item.gemSapphire.name=Sapphire Gem
+item.gemGreenSapphire.name=GreenSapphire Gem
+item.gemRuby.name=Ruby Gem
+item.dustNikolite.name=Nikolite Dust
+item.ingotTungsten.name=Tungsten Ingot
+item.ingotTin.name=Tin Ingot
+item.ingotSilver.name=Silver Ingot
+item.ingotCopper.name=Copper Ingot
+item.axeRuby.name=Ruby Axe
+item.axeGreenSapphire.name=GreenSapphire Axe
+item.axeSapphire.name=Sapphire Axe
+item.shovelRuby.name=Ruby Shovel
+item.shovelSapphire.name=Sapphire Shovel
+item.shovelGreenSapphire.name=GreenSapphire Shovel
+item.hoeRuby.name=Ruby Hoe
+item.hoeSapphire.name=Sapphire Hoe
+item.hoeGreenSapphire.name=GreenSapphire Hoe
+item.pickaxeRuby.name=Ruby Pickaxe
+item.pickaxeSapphire.name=Sapphire Pickaxe
+item.pickaxeGreenSapphire.name=GreenSapphire Pickaxe
+item.lambRaw.name=Lamb Raw
+item.lambCooked.name=Lamb Cooked
+item.rubberRaw.name=Sticky Resin
+item.rubberSmelted.name=Rubber
+item.stickIron.name=Iron Stick
+item.glass.name=Golden Glass
+item.chest.name=Gentleman's Chest
+item.legs.name=Gentleman's Leggins
+item.boots.name=Gentleman's Boots
+
+itemGroup.SoluCraft=SoluCraft ALPHA
+
+tile.oreSapphire.name=Sapphire Ore
+tile.oreGreenSapphire.name=GreenSapphire Ore
+tile.oreRuby.name=Ruby Ore
+tile.oreNikolite.name=Nikolite Ore
+tile.oreTungsten.name=Tungsten Ore
+tile.oreTin.name=Tin Ore
+tile.oreSilver.name=Silver Ore
+tile.oreCopper.name=Copper Ore
+tile.blockStorageSapphire.name=Sapphire Storage Block
+tile.blockStorageGreenSapphire.name=GreenSapphire Storage Block
+tile.blockStorageRuby.name=Ruby Storage Block
+tile.blockStorageNikolite.name=Nikolite Storage Block
+tile.blockStorageTungsten.name=Tungsten Storage Block
+tile.blockStorageTin.name=Tin Storage Block
+tile.blockStorageSilver.name=Silver Storage Block
+tile.blockStorageCopper.name=Copper Storage Block
+tile.blockBasalt.name=Basalt
+tile.blockMarble.name=Marble
+tile.blockBasaltCobble.name=Basalt Cobblestone
+tile.blockBasaltChiseled.name=Basalt Chiseled
+tile.blockBasaltPaver.name=Basalt Paver
+tile.blockBasaltBrick.name=Basalt Brick
+tile.blockMarbleBrick.name=Marble Brick
+
+

@@ -27,8 +27,10 @@ item.glass.name=Golden Glass
 item.chest.name=Gentleman's Chest
 item.legs.name=Gentleman's Leggins
 item.boots.name=Gentleman's Boots
+item.grenade.name=Grenade
 
-itemGroup.SoluCraft=SoluCraft ALPHA
+itemGroup.SoluCraft=SoluCraft Blocks ALPHA
+itemGroup.SoluCraftItems=SoluCraft Items ALPHA
 
 tile.oreSapphire.name=Sapphire Ore
 tile.oreGreenSapphire.name=GreenSapphire Ore
@@ -53,5 +55,39 @@ tile.blockBasaltChiseled.name=Basalt Chiseled
 tile.blockBasaltPaver.name=Basalt Paver
 tile.blockBasaltBrick.name=Basalt Brick
 tile.blockMarbleBrick.name=Marble Brick
+tile.slabDia.name=Diamond Slab
+tile.slabGold.name=Gold Slab
+tile.slabIron.name=Iron Slab
+tile.slabRuby.name=Ruby Slab
+tile.slabSapp.name=Sapphire Slab
+tile.slabGreen.name=GreenSapphire Slab
+tile.stairDia.name=Diamond Stairs
+tile.stairsGold.name=Gold Stairs
+tile.stairsIron.name=Iron Stairs
+tile.stairsRuby.name=Ruby Stairs
+tile.stairsGreen.name=GreenSappphire Stairs
+tile.stairsSapp.name=Sapphire Stairs
+
+tile.slabEmerald.name=Emerald Slab
+tile.slabLapis.name=Lapis Slab
+tile.slabMarble.name=Marble Slab
+tile.slabMarbleBrick.name=Marble Brick Slab
+tile.slabBasalt.name=Basalt Slab
+tile.slabBasaltBrick.name=Basalt Brick Slab
+tile.slabBasaltChiseled.name=Basalt Chiseled Slab
+tile.slabPaver.name=Basalt Paver Slab
+
+tile.stairsEmerald.name=Emerald Stair
+tile.stairsLapis.name=Lapis Stair
+tile.stairsMarble.name=Marble Stair
+tile.stairsMarbleBrick.name=Marble Brick Stair
+tile.stairsBasalt.name=Basalt Stair
+tile.stairsBasaltBrick.name=Basalt Brick Stair
+tile.stairsBasaltChiseled.name=Basalt Chiseled Stair
+tile.stairsPaver.name=Basalt Paver Stair
+
+tile.stairsWool.name=Wool Stairs
+
+
 
 
